@@ -1,6 +1,6 @@
 # Instacart Next-Basket Recommender System
 
-This project implements a next-basket recommender system for Instacart using advanced data science techniques. The primary goal is to enhance user retention, drive additional sales, and foster strategic partnerships through predictive analytics and personalized marketing. This project was completed as part of the **Data Science for Business** initiative.
+This project implements a next-basket recommender system for Instacart using advanced data science techniques. The primary goal is to enhance user retention, drive additional sales, and foster strategic partnerships through predictive analytics and personalized marketing.
 
 ---
 
