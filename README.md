@@ -77,3 +77,5 @@ The project uses the publicly available [Instacart Kaggle Dataset](https://www.k
 - Improve model scalability to handle larger datasets and real-time predictions.
 
 ---
+## References
+- Instacart Paper(TIFU-KNN) [Paper](https://arxiv.org/pdf/2006.00556)
